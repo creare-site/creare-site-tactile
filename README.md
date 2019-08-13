@@ -1,45 +1,46 @@
-# [JAMstack tactile](https://appseed.us/apps/jamstack/jamstack-tactile-pixelarity)
+# [Creare Site Tactile](https://creare-site-tactile.websitemarket.ro/) - Site Prezentare
 
-Blazing fast application coded by AppSeed in [JAMstack](https://jamstack.org/) pattern on top of tactile Pixelarity design.
-
-<br />
-
-![JAMstack tactile - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-tactile-intro.gif?raw=true)
+Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-## License
-
-This is a commercial application, to use it you need to buy a license. Please access [AppSeed](https://appseed.us/pricing) for more information.
+![Creare Site Tactile](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-tactile-intro.gif)
 
 <br />
 
-## App Links
+## Informatii produs
 
-- [Jamstack tactile](https://jamstack-tactile.appseed.us/) - live demo
-- [Pixelarity tactile](https://pixelarity.com/tactile) - the design provided by Pixelarity 
+- Site de prezentare - Tactile
+- Live [DEMO](https://creare-site-tactile.websitemarket.ro)
+ 
+<br />
+
+## Licenta
+
+- Acest produs este protejat de drepturi de autor
+- Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro) 
 
 <br />
 
-## How to use it
+## Utilizare (pentru dezvoltatori)
 
-- Clone this repo `git clone https://github.com/app-generator/priv-jamstack-tactile.git`
-- change directory to `priv-jamstack-tactile`
-- `yarn` - install deps
-- `yarn start` - live edit
-- `yarn build` - build for production in directory `_site`
-- `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
+Acesta website este o aplicatie JAMstack. Pentru a genera website-ul local urmati instructiunile:
+
+```
+$ git clone https://github.com/creare-site/creare-site-tactile.git
+$ cd creare-site-tactile
+$ yarn # instalare module
+$ yarn start # mod editare live
+$ yarn build # generare site productie
+```
 
 <br />
 
-## [JAMstack](https://jamstack.org/) resources
+## Suport
 
-- Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
-- [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
-- [JAMstack.org](https://jamstack.org/)
-- A curated list with production-ready [JAMstack Apps](https://appseed.us/apps/jamstack)
+Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https://discord.gg/MFRQmAk)
 
 <br />
 
 ---
-[JAMstack tactile](https://appseed.us/apps/jamstack/jamstack-tactile-pixelarity) - provided by **AppSeed**
+Site Prezentare - [Tactile](https://creare-site-tactile.websitemarket.ro/) un produs **WebsiteMarket**
